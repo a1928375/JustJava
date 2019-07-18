@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="add_chocolate">巧克力?</string>
+    <string name="add_cream">鮮奶油?</string>
+    <string name="chocolate">巧克力</string>
+    <string name="cream">鮮奶油</string>
+    <string name="order">訂購</string>
+    <string name="quantity">數量</string>
+    <string name="quantity_1">"數量: "</string>
+    <string name="summary">訂購清單</string>
+    <string name="thank_you">謝謝!</string>
+    <string name="toppings">配料</string>
+    <string name="total">總共: $</string>
+    <string name="user_name">姓名</string>
+    <string name="user_name_1">"姓名: "</string>
+</resources>
